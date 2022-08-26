@@ -1,0 +1,2 @@
+# CSCS1240
+CCC class Fall 2022
